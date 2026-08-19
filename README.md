@@ -72,6 +72,21 @@ stock, and business operations.
 🌐 Networking & Distributed Systems
 
 ---
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/krishnadevtiwari">
+    <img src="https://img.shields.io/badge/LinkedIn-Krishnadev%20Tiwari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+📍 Mumbai, India
+
+---
+
+⭐ Thanks for visiting my profile!
 
 ## 🔨 What I'm Building
 
@@ -87,3 +102,6 @@ Application Deployment
 Monitoring & Reliability
         ↓
 AI-powered Automation
+
+---
+
