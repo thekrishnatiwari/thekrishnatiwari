@@ -1,6 +1,4 @@
 # Hi, I'm Krishnadev Tiwari 👋
-# Hi, I'm Krishnadev Tiwari 👋
-
 ### ☁️ Cloud & DevOps Engineer | Building with Cloud, Automation & AI
 
 MCA graduate passionate about building **scalable cloud infrastructure,
