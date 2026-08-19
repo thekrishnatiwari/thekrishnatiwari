@@ -3,38 +3,55 @@
 
 ### Cloud / DevOps Engineer in Training ☁️
 
-MCA graduate building hands-on skills in **Cloud Computing, DevOps,
-AI, and Automation**.
+MCA graduate interested in **Cloud Computing, DevOps, AI, and Automation**.
 
-I'm currently learning how to build, deploy, automate, and monitor
-applications using modern cloud and DevOps tools.
+I'm currently building hands-on experience with cloud infrastructure, Linux,
+containers, CI/CD, and AI-powered applications.
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,terraform,git,github,jenkins,python,java,mongodb,mysql,vscode" />
+  <img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,terraform" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,jenkins,python,java" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,vscode,html,css" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🤖 AI PDF Chatbot
-RAG-based application that allows users to ask questions about PDF documents.
+### 🤖 RAG-Based AI PDF Chatbot
 
-**Tech:** Python · LangChain · FAISS · Groq · Streamlit
+An AI-powered application that allows users to upload PDF documents
+and ask questions about their content.
 
-### ☁️ CI/CD Pipeline
-Automated application build and deployment pipeline using modern DevOps tools.
+**Technologies:** Python · LangChain · FAISS · Groq · Streamlit
 
-**Tech:** GitHub Actions · Docker · AWS
+---
+
+### ☁️ CI/CD Pipeline for Web Application
+
+A DevOps project demonstrating automated application build, testing,
+containerization, and deployment using CI/CD practices.
+
+**Technologies:** GitHub Actions · Docker · AWS
+
+---
 
 ### 🥛 Dairy Inventory Management System
-Inventory management application developed for managing dairy products and stock.
 
-**Tech:** Python · Tkinter · MongoDB
+An inventory management application designed to manage dairy products,
+stock, and inventory records.
+
+**Technologies:** Java/Python · MongoDB · GUI
 
 ---
 
@@ -46,20 +63,39 @@ Inventory management application developed for managing dairy products and stock
 - ☸️ Kubernetes
 - 🏗️ Terraform
 - 🔄 CI/CD
-- 🤖 AI & Automation
 - 🌐 Networking
+- 🤖 AI & Automation
 
 ---
 
 ## 🎯 Career Goal
 
-To build a career in **Cloud / DevOps Engineering** and work on
-scalable, automated, and reliable cloud infrastructure.
+I'm working toward becoming a **Cloud / DevOps Engineer**, with a focus on
+building reliable infrastructure, automating deployments, and integrating
+AI into modern cloud environments.
+
+---
+
+## 📊 What I'm Working On
+
+- Building cloud-based projects
+- Learning DevOps tools and practices
+- Deploying applications using Docker and AWS
+- Understanding CI/CD automation
+- Exploring AI-powered applications
+- Improving my problem-solving and technical skills
 
 ---
 
 ## 📫 Connect With Me
 
-<a href="https://www.linkedin.com/in/krishnadevtiwari">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
-</a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/krishnadevtiwari">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+  </a>
+</p>
+
+---
+
+⭐ Feel free to explore my repositories and follow my learning journey!
+
