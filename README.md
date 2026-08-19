@@ -65,7 +65,6 @@ Application Deployment
 Monitoring & Reliability
         ↓
 AI-powered Automation
-
 ## 📫 Connect With Me
 
 <p align="left">
