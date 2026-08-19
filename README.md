@@ -1,4 +1,4 @@
-# Hi, I'm Krishnadev Tiwari 👋
+# Hi, I'm Krishna Tiwari 👋
 
 ### ☁️ Cloud & DevOps Engineer | Building with Cloud, Automation & AI
 
