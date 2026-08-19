@@ -1,26 +1,33 @@
 # Hi, I'm Krishnadev Tiwari 👋
+
 ### ☁️ Cloud & DevOps Engineer | Building with Cloud, Automation & AI
 
-MCA graduate passionate about building **scalable cloud infrastructure,
-automated deployment pipelines, and AI-powered applications.**
+MCA graduate passionate about building scalable cloud infrastructure,
+automated deployment pipelines, and AI-powered applications.
 
 I enjoy turning ideas into working systems and continuously improving
-how applications are **built, deployed, and operated.**
+how applications are built, deployed, and operated.
 
 ---
 
 ## ⚡ Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,terraform" />
-</p>
+### ☁️ Cloud & DevOps
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,jenkins,python,java" />
+<img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,terraform" />
 </p>
 
+### 💻 Development & Databases
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,vscode,html,css" />
+<img src="https://skillicons.dev/icons?i=python,java,mysql,mongodb" />
+</p>
+
+### 🧰 Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,jenkins,vscode" />
 </p>
 
 ---
@@ -28,30 +35,45 @@ how applications are **built, deployed, and operated.**
 ## 🚀 Featured Projects
 
 ### 🤖 RAG-Based AI PDF Chatbot
-AI-powered document assistant that uses Retrieval-Augmented Generation
-to answer questions from uploaded PDF documents.
 
-**Python · LangChain · FAISS · Groq · Streamlit**
+An AI-powered document assistant that allows users to upload PDF
+documents and ask questions about their content.
+
+**Tech:** Python · LangChain · FAISS · Groq · Streamlit
 
 ---
 
 ### ☁️ CI/CD Pipeline
-Automated build and deployment pipeline demonstrating modern DevOps
-practices, containerization, and cloud deployment.
 
-**GitHub Actions · Docker · AWS**
+Automated application build and deployment pipeline demonstrating
+modern DevOps practices, containerization, and cloud deployment.
+
+**Tech:** GitHub Actions · Docker · AWS
 
 ---
 
 ### 🥛 Dairy Inventory Management System
-Inventory management application for managing products, stock,
-and business operations.
 
-**Python · MongoDB · Tkinter**
+Inventory management application designed to manage products,
+stock, and business operations.
+
+**Tech:** Python · Tkinter · MongoDB
 
 ---
 
-## 🧩 What I Build
+## 🧩 Engineering Interests
+
+☁️ Cloud Computing  
+⚙️ DevOps & Automation  
+🐳 Containerization  
+🔄 CI/CD  
+🏗️ Infrastructure as Code  
+🤖 AI & Automation  
+🌐 Networking & Distributed Systems
+
+---
+
+## 🔨 What I'm Building
 
 ```text
 Cloud Infrastructure
@@ -65,10 +87,3 @@ Application Deployment
 Monitoring & Reliability
         ↓
 AI-powered Automation
-## 📫 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/krishnadevtiwari">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
-  </a>
-</p>
