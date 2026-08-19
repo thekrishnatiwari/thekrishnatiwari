@@ -32,35 +32,6 @@ how applications are built, deployed, and operated.
 
 ---
 
-## 🚀 Featured Projects
-
-### 🤖 RAG-Based AI PDF Chatbot
-
-An AI-powered document assistant that allows users to upload PDF
-documents and ask questions about their content.
-
-**Tech:** Python · LangChain · FAISS · Groq · Streamlit
-
----
-
-### ☁️ CI/CD Pipeline
-
-Automated application build and deployment pipeline demonstrating
-modern DevOps practices, containerization, and cloud deployment.
-
-**Tech:** GitHub Actions · Docker · AWS
-
----
-
-### 🥛 Dairy Inventory Management System
-
-Inventory management application designed to manage products,
-stock, and business operations.
-
-**Tech:** Python · Tkinter · MongoDB
-
----
-
 ## 🧩 Engineering Interests
 
 ☁️ Cloud Computing  
