@@ -83,17 +83,7 @@ stock, and business operations.
     <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
   </a>
 </p>
-
 ---
-
-⭐ Thanks for visiting my profile!
-
-📍 Mumbai, India
-
----
-
-⭐ Thanks for visiting my profile!
-
 ## 🔨 What I'm Building
 
 ```text
