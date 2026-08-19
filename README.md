@@ -74,13 +74,19 @@ stock, and business operations.
 ---
 ---
 
+---
+
 ## 📫 Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/krishnadevtiwari">
-    <img src="https://img.shields.io/badge/LinkedIn-Krishnadev%20Tiwari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
   </a>
 </p>
+
+---
+
+⭐ Thanks for visiting my profile!
 
 📍 Mumbai, India
 
